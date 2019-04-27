@@ -1,5 +1,6 @@
 function result = check_rectangle(I,box)
 box = round(box);
+x = box(1);    
 y = box(2);    
 w = box(3);
 h = box(4);
